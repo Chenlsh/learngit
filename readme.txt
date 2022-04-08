@@ -3,5 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of file.
 Creating a new branch is quick and simple.
-Creating merge
+Creating merge.
 Git is repair bug.
+Repair BUG.
+Git is test line. 
